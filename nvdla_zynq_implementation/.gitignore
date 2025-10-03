@@ -1,0 +1,23 @@
+# Vivado temporary/build files
+*.jou
+*.log
+*.str
+*.xml
+
+# Vivado generated directories
+.Xil/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.tmp/
+
+# Simulation waves & dumps
+*.wdb
+*.dcp
+
+# Other temp
+*.bak
+*.tmp

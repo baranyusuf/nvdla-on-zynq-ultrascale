@@ -1,0 +1,8 @@
+vhdl xil_defaultlib  \
+"../../../bd/nvdla_bd/ip/nvdla_bd_smartconnect_0_0/bd_0/ip/ip_1/sim/bd_c9c4_psr_aclk_0.vhd" \
+"../../../bd/nvdla_bd/ip/nvdla_bd_smartconnect_1_0/bd_0/ip/ip_1/sim/bd_0995_psr_aclk_0.vhd" \
+"../../../bd/nvdla_bd/ip/nvdla_bd_proc_sys_reset_0_0/sim/nvdla_bd_proc_sys_reset_0_0.vhd" \
+"../../../bd/nvdla_bd/ip/nvdla_bd_axi_apb_bridge_0_0/sim/nvdla_bd_axi_apb_bridge_0_0.vhd" \
+
+# Do not sort compile order
+nosort

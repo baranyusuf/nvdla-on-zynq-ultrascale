@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Aug 22 15:24:08 2025
+# Process ID         : 14552
+# Current directory  : C:/Xilinx/nvdla_zynq_implementation/nvdla_zynq_implementation.runs/synth_1
+# Command line       : vivado.exe -log nvdla_bd_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source nvdla_bd_wrapper.tcl
+# Log file           : C:/Xilinx/nvdla_zynq_implementation/nvdla_zynq_implementation.runs/synth_1/nvdla_bd_wrapper.vds
+# Journal file       : C:/Xilinx/nvdla_zynq_implementation/nvdla_zynq_implementation.runs/synth_1\vivado.jou
+# Running On         : DESKTOP-M3R0RID
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+# CPU Frequency      : 2803 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 34069 MB
+# Swap memory        : 2147 MB
+# Total Virtual      : 36216 MB
+# Available Virtual  : 9955 MB
+#-----------------------------------------------------------
+source nvdla_bd_wrapper.tcl -notrace

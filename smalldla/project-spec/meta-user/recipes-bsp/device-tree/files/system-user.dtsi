@@ -1,0 +1,19 @@
+/include/ "system-conf.dtsi"
+/ {
+   reserved-memory {
+      #address-cells = <2>;
+      #size-cells = <2>;
+      ranges;
+
+      nvdla_reserved: buffer@0x10000000 {
+         compatible = "shared-dma-pool";
+         no-map;
+         reg = <0x0 0x10000000 0x0 0x20000000>;
+      };
+   };
+};
+
+&NV_nvdla_wrapper_0{
+    compatible = "nvidia,nv_small";
+    memory-region = <&nvdla_reserved>;
+};
